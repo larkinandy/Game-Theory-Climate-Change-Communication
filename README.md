@@ -9,9 +9,8 @@ Support for climate change regulation significantly differs between the scientif
 
 **Files**
 - GameTheoryClimateChangeScript.ipnb - Jupyter notebook containing Code to run game theory models and generate output
-- Larkin_Game_Theory_Report.docx - Manuscript created to satisfy requirements for the Applied Game Theory course at Johns Hopkins University (https://ep.jhu.edu/programs-and-courses/605.724-applied-game-theory)
-- ModelResults.xlsx - excel file containing model results.  See metadata sheet within the file for additional details.
-
+- Actor_Actions.xlsx - Actions chosen for pro and anti climate change actors across 25 games for all 25 states.
+- PayoffsOverTime.xlsx - Change in opinion for republicans and democrats in Montana and Hawaii over 25 games.
 
 
 **Additional Data**
