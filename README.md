@@ -11,6 +11,8 @@ Support for climate change regulation significantly differs between the scientif
 - GameTheoryClimateChangeScript.ipnb - Jupyter notebook containing Code to run game theory models and generate output
 - Actor_Actions.xlsx - Actions chosen for pro and anti climate change actors across 25 games for all 25 states.
 - PayoffsOverTime.xlsx - Change in opinion for republicans and democrats in Montana and Hawaii over 25 games.
+- DemDeltaOpinionv2.csv - Change in opinion for democratic groups across 25 sequential games and 50 states.
+- RepDeltaOpinion.csv - Change in opinion for republican groups across 25 sequential games and 50 states.
 
 
 **Additional Data**
