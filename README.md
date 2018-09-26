@@ -6,7 +6,7 @@
 **Affiliation:** [Johns Hopkins University, Whiting School of Engineering](https://ep.jhu.edu/) <br>
 **Date Created:** Spring 2018
 
-**Summary**
+**Summary** <br>
 Support for climate change regulation significantly differs between the scientific community and general public in the US.  Previous studies suggest partisan politics together with increasingly partisan news media coverage is partly responsible for the divergence between public and scientific opinion.  This project utililzes game theory models to identify best strategies for scientists to use when engaging media to maximmize impact on climate change communication.   
 <br>
 
